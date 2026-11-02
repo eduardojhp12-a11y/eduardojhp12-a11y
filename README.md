@@ -38,16 +38,6 @@
 - 🏠 ¡Siéntete libre de enviarme un **👋** por Discord! Mi nombre de usuario es **1010nishant** ([enlace](https://discordapp.com/users/957722095381540874)).
 <!--Intro end-->
 
-<!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td align="center">
-  <img align="center" src="https://vercel.app"/>
-</td>
-</tr>
-</table>
-<!--- stats (end) -->
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
