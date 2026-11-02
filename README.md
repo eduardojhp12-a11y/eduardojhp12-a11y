@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, Soy Eduardo Hernandez Ingeniero de Sistemas</h1></summary>
+    <summary><h1 style="display: inline-block">Hola👋, Soy Eduardo Hernandez (Ingeniero de Sistemas)</h1></summary>
   </ul>
 </div>
 
@@ -33,7 +33,7 @@
 
 - 💬 Pregúntame sobre **AWS, React, React Native, Node.js o MongoDB**.
 
-- 📫 No dudes en contactarme a través de **nishantjangid6377@gmail.com**.
+- 📫 No dudes en contactarme a través de **Eduardojhp12@gmail.com**.
 
 - 🏠 ¡Siéntete libre de enviarme un **👋** por Discord! Mi nombre de usuario es **1010nishant** ([enlace](https://discordapp.com/users/957722095381540874)).
 <!--Intro end-->
@@ -120,5 +120,3 @@
 
 ----------------------------------------------------------------------
 Credit: [1010nishant](https://github.com/1010nishant)
-
-Last Edited on: 29/4/2023
