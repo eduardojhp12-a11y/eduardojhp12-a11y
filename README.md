@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, Soy Eduardo Hernandez Ingeniero de Sistemas</h1></summary>
   </ul>
 </div>
 
@@ -19,25 +19,23 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">La confusión forma parte de la programación.</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 Actualmente trabajo con **AWS, React, React Native, Node.js y MongoDB**.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 Estoy aprendiendo a integrar diversas tecnologías (el «stack» tecnológico) para crear aplicaciones escalables.
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ Me interesa mucho la computación en la nube; por eso, estoy aprendiendo **AWS**.
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 💬 Pregúntame sobre **AWS, React, React Native, Node.js o MongoDB**.
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 📫 No dudes en contactarme a través de **nishantjangid6377@gmail.com**.
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 🏠 ¡Siéntete libre de enviarme un **👋** por Discord! Mi nombre de usuario es **1010nishant** ([enlace](https://discordapp.com/users/957722095381540874)).
 <!--Intro end-->
 
 
