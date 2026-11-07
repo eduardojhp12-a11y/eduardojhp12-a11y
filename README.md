@@ -35,7 +35,7 @@
 
 - 📫 No dudes en contactarme a través de **Eduardojhp12@gmail.com**.
 
-- 🏠 ¡Siéntete libre de enviarme un **👋** por Discord! Mi nombre de usuario es **IamDrogon** ([enlace](https://discordapp.com/users/957722095381540874)).
+- 🏠 ¡Siéntete libre de enviarme un **👋** por Discord! Mi nombre de usuario es **IamDrogon** ([enlace](https://discord.com/users/838186645076443216)).
 <!--Intro end-->
 
 
