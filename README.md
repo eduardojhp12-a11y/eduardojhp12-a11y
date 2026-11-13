@@ -44,38 +44,37 @@ Trabajo con **AWS, React, React Native, Node.js y MongoDB**, y sigo ampliando mi
 
 ## 🚀 Proyectos destacados
 
-### ✨ G&D Essences — Catálogo de fragancias
-Catálogo de fragancias con información de productos y colecciones gestionada mediante Appwrite.
+### 🚌 Página de información de BusTracker
+Sitio informativo de BusTracker con secciones sobre sus funcionalidades, equipo, solución y resultados.
 
-**Stack:** React · Vite · Appwrite Cloud
+**Stack:** HTML · CSS · JavaScript
 
 <p>
-  <a href="https://github.com/daniel-devfrontend/Catalogo-gd-essences"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código fuente" /></a>
-  <a href="https://daniel-devfrontend.github.io/Catalogo-gd-essences/"><img src="https://img.shields.io/badge/Live-Demo-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo en vivo" /></a>
+  <a href="https://github.com/eduardojhp12-a11y/Pagina-de-informacion-de-bustracker"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código fuente en GitHub" /></a>
 </p>
 
-### 🎨 Guss Sys — Landing de agencia
-Concepto de landing page que presenta servicios, portafolio y contacto de una agencia.
+### 🚍 Sitio web de BusTracker
+Presentación web del proyecto BusTracker con información del servicio y recursos visuales.
 
-**Stack:** HTML · CSS
+**Stack:** HTML · CSS · JavaScript
 
 <p>
-  <a href="https://github.com/daniel-devfrontend/Guss-Sys"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código fuente" /></a>
-  <a href="https://daniel-devfrontend.github.io/Guss-Sys/"><img src="https://img.shields.io/badge/Live-Demo-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo en vivo" /></a>
+  <a href="https://github.com/eduardojhp12-a11y/Pagina-web-de-Bustracker"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código fuente en GitHub" /></a>
 </p>
 
-### 🎮 Unity Universe
-Guía editorial sobre Unity: características del motor, flujos de trabajo, plataformas y juegos.
+### 💻 Venta de desarrollo de software
+Sitio web para presentar servicios de desarrollo de software, empresa, portafolio y contacto.
+
+**Stack:** HTML · CSS · JavaScript
 
 <p>
-  <a href="https://github.com/daniel-devfrontend/Unity-Universe"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código fuente" /></a>
-  <a href="https://daniel-devfrontend.github.io/Unity-Universe/"><img src="https://img.shields.io/badge/Live-Demo-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo en vivo" /></a>
+  <a href="https://github.com/eduardojhp12-a11y/Pagina-web-de-venta-de-desarrollo-de-software"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código fuente en GitHub" /></a>
 </p>
 
 ## 🤝 Conecta conmigo
 
 <p align="center">
-  <a href="https://github.com/daniel-devfrontend"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/eduardojhp12-a11y"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/eduardo-hern%C3%A1ndez-459085263/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/eduardohernandez6459/"><img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://discord.com/users/838186645076443216"><img src="https://img.shields.io/badge/Discord-IamDrogon-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
@@ -85,7 +84,7 @@ Guía editorial sobre Unity: características del motor, flujos de trabajo, plat
 <!-- Contador de visitas -->
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=eduardojhp12-a11y&icon=3&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
