@@ -15,9 +15,9 @@
 
 ## 👋 Sobre mí
 
-¡Hola! Soy **Eduardo Hernández**, estudiante de la **Universidad José Gregorio Hernández** y desarrollador enfocado principalmente en la **web**, especialmente en el frontend. Creo sitios y experiencias web con **HTML, CSS y JavaScript**, cuidando su estructura, apariencia y funcionamiento. También utilizo **WordPress** para crear y gestionar sitios web.
+¡Hola! Soy **Eduardo Hernández**, Ingeniero de Sistemas y Full Stack Developer. Me apasiona integrar distintas tecnologías para crear aplicaciones escalables, con especial interés en la **computación en la nube (AWS)** y en el desarrollo de experiencias web bien construidas, tanto en el frontend como en el backend.
 
-Además, sigo ampliando mis conocimientos de desarrollo con tecnologías como **React, React Native, Node.js y MongoDB**, y me interesa explorar la **computación en la nube con AWS**. Me gusta aprender a través de proyectos prácticos, convertir ideas en soluciones útiles y seguir creciendo como desarrollador.
+Trabajo con **AWS, React, React Native, Node.js y MongoDB**, y sigo ampliando mi stack mediante proyectos prácticos. Me motiva el aprendizaje continuo, la comunicación clara y aportar a software útil y bien hecho.
 
 > _"La confusión forma parte de la programación."_
 
@@ -27,23 +27,14 @@ Además, sigo ampliando mis conocimientos de desarrollo con tecnologías como **
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,scss,py,java,cpp,php&perline=6" alt="HTML, CSS, JavaScript, TypeScript, SCSS, Python, Java, C++, PHP" /></p>
 
 ### Frontend & UI
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,materialui,tailwind,redux,nextjs&perline=6" alt="React, Material UI, Tailwind, Redux, Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" width="48" height="48" alt="React Native" />
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,reactnative,materialui,tailwind,redux,nextjs&perline=6" alt="React, React Native, Material UI, Tailwind, Redux, Next.js" /></p>
 
 ### Backend & Bases de datos
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,prisma,redis,dynamodb&perline=6" alt="Node.js, Express, MySQL, PostgreSQL, MongoDB, Prisma, Redis, DynamoDB" /></p>
 
-### Cloud & Hosting
+### Cloud, DevOps & Herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws&perline=6" alt="AWS" />
-  <img src="https://cdn.simpleicons.org/hostinger/673DE6" width="48" height="48" alt="Hostinger" />
-</p>
-
-### DevOps & Herramientas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,git,github,gitlab,linux,windows,vscode,figma,postman&perline=6" alt="Docker, Kubernetes, Nginx, Git, GitHub, GitLab, Linux, Windows, VS Code, Figma, Postman" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,git,github,gitlab,linux,windows,vscode,figma,postman&perline=6" alt="AWS, Docker, Kubernetes, Nginx, Git, GitHub, GitLab, Linux, Windows, VS Code, Figma, Postman" />
 </p>
 
 ### IA & Comunidad
