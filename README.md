@@ -23,11 +23,14 @@ Trabajo con **AWS, React, React Native, Node.js y MongoDB**, y sigo ampliando mi
 
 ## 🧰 Tecnologías
 
+### Lenguajes
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,scss,py,java,cpp,php&perline=6" alt="HTML, CSS, JavaScript, TypeScript, SCSS, Python, Java, C++, PHP" /></p>
+
 ### Frontend & UI
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,scss,react,reactnative,materialui,tailwind,redux,nextjs&perline=6" alt="HTML, CSS, JavaScript, TypeScript, SCSS, React, React Native, Material UI, Tailwind, Redux, Next.js" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,reactnative,materialui,tailwind,redux,nextjs&perline=6" alt="React, React Native, Material UI, Tailwind, Redux, Next.js" /></p>
 
 ### Backend & Bases de datos
-<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,py,java,cpp,php,mysql,postgres,mongodb,prisma,redis,dynamodb&perline=6" alt="Node.js, Express, Python, Java, C++, PHP, MySQL, PostgreSQL, MongoDB, Prisma, Redis, DynamoDB" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,prisma,redis,dynamodb&perline=6" alt="Node.js, Express, MySQL, PostgreSQL, MongoDB, Prisma, Redis, DynamoDB" /></p>
 
 ### Cloud, DevOps & Herramientas
 <p align="center">
@@ -51,6 +54,7 @@ Sitio informativo de BusTracker con secciones sobre sus funcionalidades, equipo,
 
 <p>
   <a href="https://github.com/eduardojhp12-a11y/Pagina-de-informacion-de-bustracker"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código fuente en GitHub" /></a>
+  <a href="https://eduardojhp12-a11y.github.io/Pagina-de-informacion-de-bustracker/"><img src="https://img.shields.io/badge/Live-Demo-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo en vivo" /></a>
 </p>
 
 ### 🚍 Sitio web de BusTracker
@@ -60,6 +64,7 @@ Presentación web del proyecto BusTracker con información del servicio y recurs
 
 <p>
   <a href="https://github.com/eduardojhp12-a11y/Pagina-web-de-Bustracker"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código fuente en GitHub" /></a>
+  <a href="https://eduardojhp12-a11y.github.io/Pagina-web-de-Bustracker/"><img src="https://img.shields.io/badge/Live-Demo-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo en vivo" /></a>
 </p>
 
 ### 💻 Venta de desarrollo de software
@@ -69,6 +74,7 @@ Sitio web para presentar servicios de desarrollo de software, empresa, portafoli
 
 <p>
   <a href="https://github.com/eduardojhp12-a11y/Pagina-web-de-venta-de-desarrollo-de-software"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código fuente en GitHub" /></a>
+  <a href="https://eduardojhp12-a11y.github.io/Pagina-web-de-venta-de-desarrollo-de-software/"><img src="https://img.shields.io/badge/Live-Demo-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo en vivo" /></a>
 </p>
 
 ## 🤝 Conecta conmigo
