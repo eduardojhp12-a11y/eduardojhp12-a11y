@@ -15,7 +15,7 @@
 
 ## 👋 Sobre mí
 
-¡Hola! Soy Eduardo Hernández, Full Stack Developer y estudiante de Ingeniería en Sistemas en la Universidad Doctor José Gregorio Hernández. Me apasiona integrar distintas tecnologías para crear aplicaciones escalables, con especial interés en la computación en la nube (AWS) y en el desarrollo de experiencias web bien construidas, tanto en el frontend como en el backend.
+¡Hola! Soy Eduardo Hernández, Full Stack Developer y estudiante de Ingeniería en Sistemas en la Universidad Dr. José Gregorio Hernández. Me apasiona integrar distintas tecnologías para crear aplicaciones escalables, con especial interés en la computación en la nube (AWS) y en el desarrollo de experiencias web bien construidas, tanto en el frontend como en el backend.
 
 Trabajo con HTML, CSS, JavaScript y WordPress, construyendo desde interfaces cuidadas hasta sitios gestionables y funcionales. A ello sumo AWS, React, React Native, Node.js y MongoDB, y sigo ampliando mi stack mediante proyectos prácticos.
 
